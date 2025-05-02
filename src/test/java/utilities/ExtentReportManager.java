@@ -114,7 +114,9 @@ public class ExtentReportManager implements ITestListener {
 		} catch (IOException var5) {
 			var5.printStackTrace();
 		}
-
+		
+		
+//This is to Send emails indvidual or groups
 //		try { URL url = new 
 //				URL("file:///"+System.getProperty("user.dir")+"\\reports\\"+repName); 
 //				// Create the email message 

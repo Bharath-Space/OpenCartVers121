@@ -26,7 +26,7 @@
                 <version>3.5.3</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml</suiteXmlFile>
+                        <suiteXmlFile>C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin> <!-- ✅ You missed this closing tag -->

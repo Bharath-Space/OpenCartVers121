@@ -19,7 +19,7 @@ public class TC0003_LoginDDT extends BaseClass {
 	public void verify_loginDDt(String email, String pwd, String exp) {
 		
 
-				logger.info("*********TC003_verify_login Started");
+				logger.info("*********TC003_LoginDDT Started");
 			
 					// In test cases we should not specify any hard code data anywher
 //				should keep in poc or excels
@@ -75,6 +75,8 @@ try {
 						Assert.fail();
 					}
 					logger.info("*********TC003_verify_login Finished****");
+					
+					
 					
 					
 

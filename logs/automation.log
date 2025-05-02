@@ -1,0 +1,584 @@
+08:50:25.694 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+08:52:02.753 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+08:52:03.224 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+08:52:04.134 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+08:52:04.138 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+08:52:06.653 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+08:52:06.729 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+15:33:18.952 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+15:33:26.428 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+15:33:26.823 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+15:33:27.499 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+15:33:27.504 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+15:33:29.106 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+15:33:29.181 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+15:33:33.108 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+15:33:34.941 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+15:33:38.421 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+15:37:32.412 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+15:37:38.799 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+15:37:39.132 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+15:37:39.882 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+15:37:39.886 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+15:37:41.626 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+15:37:41.705 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+15:37:53.864 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+15:37:55.819 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+15:37:59.975 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+16:02:18.188 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+16:02:25.097 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+16:02:25.566 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+16:02:26.211 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+16:02:26.215 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+16:02:27.933 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+16:02:27.983 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+16:02:33.055 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+16:02:35.032 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+16:02:39.697 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+16:05:20.846 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+16:05:25.879 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+16:05:27.665 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+16:05:31.347 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+16:05:33.768 [main] INFO  testCases.TC004_SearchTest - *********Search Product Test Passed*********
+16:48:40.782 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+16:48:50.896 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+16:48:52.805 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+16:48:56.513 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+16:49:03.553 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+16:49:05.810 [main] INFO  testCases.TC006_AddCartTest - ******Validating Expected Message....********
+16:49:05.987 [main] ERROR testCases.TC006_AddCartTest - ******Test FAiled********
+16:51:35.826 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+16:51:50.929 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+16:51:52.842 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+16:52:03.381 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+16:52:10.221 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+16:52:13.876 [main] INFO  testCases.TC006_AddCartTest - ******Validating Expected Message....********
+16:52:14.048 [main] ERROR testCases.TC006_AddCartTest - ******Test FAiled********
+16:53:30.396 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+16:53:35.532 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+16:53:37.437 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+16:53:41.843 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+16:57:47.221 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:47.234 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:57:47.244 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:47.244 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:47.245 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:47.245 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:47.247 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:47.247 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:47.260 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+16:57:47.278 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+16:57:47.280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:47.281 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:47.283 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:47.283 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:47.284 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:47.284 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:47.286 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:47.287 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:47.287 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:47.288 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:47.292 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:47.292 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:47.293 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:47.293 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:47.295 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:47.295 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:47.298 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:47.299 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:47.299 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:57:47.299 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:57:47.312 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\AppData\Local\Temp\testng-eclipse--1097582717\testng-customsuite.xml
+
+16:57:47.343 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+16:57:47.744 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@756cf158: 136 ms
+16:57:47.782 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@9635fa: 37 ms
+16:57:47.808 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6d1d4d7: 26 ms
+16:57:47.821 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2484f433: 13 ms
+16:57:47.833 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@47da3952: 12 ms
+16:57:47.833 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@51e4ccb3: 0 ms
+16:58:21.132 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+16:58:26.816 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+16:58:28.848 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+16:58:32.296 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+17:00:53.620 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+17:01:00.569 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+17:01:02.723 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+17:01:06.641 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+17:02:36.486 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+17:02:41.549 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+17:02:43.670 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+17:02:47.455 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+17:08:41.439 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+17:08:46.101 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+17:08:47.975 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+17:08:51.842 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+17:12:51.398 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+17:12:57.094 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+17:12:59.077 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+17:13:03.043 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+17:13:05.621 [main] INFO  testCases.TC004_SearchTest - *********Search Product Test Passed*********
+17:14:13.317 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+17:14:18.157 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+17:14:20.207 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+17:14:23.874 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+17:14:26.384 [main] INFO  testCases.TC004_SearchTest - *********Search Product Test Passed*********
+17:14:29.999 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+17:14:33.122 [main] INFO  testCases.TC006_AddCartTest - ******Validating Expected Message....********
+17:14:33.305 [main] ERROR testCases.TC006_AddCartTest - ******Test FAiled********
+17:17:39.093 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+17:17:43.984 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+17:17:45.767 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+17:17:49.561 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+17:17:52.296 [main] INFO  testCases.TC004_SearchTest - *********Search Product Test Passed*********
+17:17:55.896 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+17:17:58.472 [main] INFO  testCases.TC006_AddCartTest - ******Validating Expected Message....********
+17:17:58.659 [main] ERROR testCases.TC006_AddCartTest - ******Test FAiled********
+17:22:42.401 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+17:22:47.289 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+17:22:49.540 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+17:22:53.500 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+17:22:55.987 [main] INFO  testCases.TC004_SearchTest - *********Search Product Test Passed*********
+17:22:59.529 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+17:23:02.110 [main] INFO  testCases.TC006_AddCartTest - ******Validating Expected Message....********
+17:23:02.290 [main] ERROR testCases.TC006_AddCartTest - ******Test FAiled********
+17:33:30.397 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+17:33:37.718 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+17:33:40.343 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+17:33:45.072 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+17:33:47.833 [main] INFO  testCases.TC004_SearchTest - *********Search Product Test Passed*********
+17:33:52.501 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+17:53:22.443 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+17:53:31.677 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+17:53:34.021 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+17:53:38.937 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+17:53:45.527 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+17:54:47.553 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+17:54:53.957 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+17:54:56.282 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+17:55:00.727 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+17:55:06.809 [main] INFO  testCases.TC004_SearchTest - *********Search Product Test Passed*********
+18:05:15.195 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+18:05:21.168 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+18:05:23.501 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+18:05:29.480 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+18:05:36.250 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+18:05:39.462 [main] INFO  testCases.TC006_AddCartTest - ******Validating Expected Message....********
+18:05:39.669 [main] ERROR testCases.TC006_AddCartTest - ******Test FAiled********
+18:07:11.886 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+18:07:18.093 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+18:07:20.360 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+18:07:25.359 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+18:07:28.220 [main] INFO  testCases.TC004_SearchTest - *********Search Product Test Passed*********
+18:30:37.546 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+18:30:44.586 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+18:30:47.040 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+18:30:51.897 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+18:30:55.518 [main] INFO  testCases.TC004_SearchTest - *********Search Product Test Passed*********
+18:31:02.880 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+18:31:06.034 [main] INFO  testCases.TC006_AddCartTest - ******Validating Expected Message....********
+18:31:06.288 [main] ERROR testCases.TC006_AddCartTest - ******Test FAiled********
+18:41:12.590 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+18:41:20.307 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+18:41:22.880 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+18:41:27.643 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+18:41:34.632 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+18:43:00.064 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+18:43:06.220 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+18:43:08.446 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+18:43:13.063 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+18:43:16.070 [main] INFO  testCases.TC004_SearchTest - *********Search Product Test Passed*********
+18:43:20.683 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+18:44:06.988 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+18:44:12.783 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+18:44:14.821 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+18:44:19.200 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+18:44:21.859 [main] INFO  testCases.TC004_SearchTest - *********Search Product Test Passed*********
+18:44:26.611 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+18:44:50.529 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+18:44:56.457 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+18:44:59.161 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+18:45:04.304 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+18:45:12.142 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+18:49:11.382 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+18:49:17.887 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+18:49:20.359 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+18:49:25.522 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+18:49:28.270 [main] INFO  testCases.TC004_SearchTest - *********Search Product Test Passed*********
+18:49:40.975 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+18:50:04.666 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+18:50:11.498 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+18:50:13.543 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+18:50:18.378 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+18:50:21.113 [main] INFO  testCases.TC004_SearchTest - *********Search Product Test Passed*********
+18:50:25.593 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+19:20:24.488 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\test-output\master.xml
+
+19:20:33.740 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+19:20:35.893 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+19:20:40.645 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+19:20:47.471 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+20:11:00.388 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+20:11:07.468 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+20:11:09.870 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+20:11:16.190 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+20:11:23.253 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+20:11:47.806 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+20:11:53.612 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+20:11:55.761 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+20:12:00.197 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+20:12:07.093 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+20:12:53.005 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+20:12:59.727 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+20:13:02.037 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+20:13:06.357 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+20:13:09.283 [main] INFO  testCases.TC004_SearchTest - *********Search Product Test Passed*********
+20:13:59.670 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+20:14:05.238 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+20:14:07.542 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+20:14:11.836 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+20:14:18.909 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+20:14:39.082 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+20:14:44.856 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+20:14:46.890 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+20:14:51.118 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+20:14:57.990 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+20:15:15.546 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+20:15:21.623 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+20:15:23.889 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+20:15:28.196 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+20:15:31.180 [main] INFO  testCases.TC004_SearchTest - *********Search Product Test Passed*********
+20:15:35.524 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+07:32:03.956 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+07:32:59.283 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+07:33:09.890 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Started
+07:33:12.204 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+07:33:12.251 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Started
+07:33:14.133 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+07:33:14.145 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Started
+07:33:16.128 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+07:33:16.135 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Started
+07:33:27.562 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+07:33:27.572 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Started
+07:33:29.539 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+07:34:58.131 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+07:35:05.784 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Started
+07:35:08.316 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+07:35:08.347 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Started
+07:35:10.187 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+07:35:10.194 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Started
+07:35:12.201 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+07:35:12.212 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Started
+07:35:23.333 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Started
+07:35:25.409 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+07:45:49.859 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\grouping.xml
+
+07:55:54.167 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\grouping.xml
+
+07:56:01.685 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_LoginDDT Started
+07:56:03.866 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+07:56:03.905 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_LoginDDT Started
+07:56:05.798 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+07:56:05.806 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_LoginDDT Started
+07:56:07.847 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+07:56:07.856 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_LoginDDT Started
+07:56:18.886 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_LoginDDT Started
+07:56:20.876 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+13:48:47.450 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+13:49:02.558 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_LoginDDT Started
+13:49:05.838 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+13:49:05.901 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_LoginDDT Started
+13:49:08.229 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+13:49:08.239 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_LoginDDT Started
+13:49:10.494 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+13:49:10.503 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_LoginDDT Started
+13:49:22.293 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_LoginDDT Started
+13:49:24.698 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+13:50:15.670 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+13:50:25.287 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+13:50:25.901 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+13:50:27.127 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+13:50:27.131 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+13:50:29.162 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+13:50:29.224 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+13:50:34.210 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+13:50:36.560 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+13:50:41.925 [main] INFO  testCases.TC004_SearchTest - *********TC004_SearchProduct******
+13:50:45.198 [main] INFO  testCases.TC004_SearchTest - *********Search Product Test Passed*********
+13:50:50.561 [main] INFO  testCases.TC006_AddCartTest - *********Product AddingStarted
+13:51:01.951 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_LoginDDT Started
+13:51:05.102 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+13:51:05.109 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_LoginDDT Started
+13:51:08.680 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+13:51:08.688 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_LoginDDT Started
+13:51:11.273 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+13:51:11.281 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_LoginDDT Started
+13:51:22.952 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_LoginDDT Started
+13:51:25.659 [main] INFO  testCases.TC0003_LoginDDT - *********TC003_verify_login Finished****
+14:32:14.559 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+14:34:54.904 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+14:43:23.874 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+14:43:34.193 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+14:43:34.695 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+14:43:35.377 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+14:43:35.380 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+14:43:37.110 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+14:43:37.162 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+14:43:46.367 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+14:43:48.847 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+14:44:48.174 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+14:50:48.077 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+14:52:35.076 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+14:54:42.494 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+14:58:55.101 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\master.xml
+
+14:59:01.933 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+14:59:02.471 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+14:59:03.181 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+14:59:03.187 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+14:59:05.559 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+14:59:05.630 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+14:59:10.432 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+14:59:12.571 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+17:14:34.811 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\grid-docker.xml
+
+17:14:54.160 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+17:14:54.554 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+17:14:55.548 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+17:14:55.555 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+17:15:00.834 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+17:15:02.036 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+17:15:13.684 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+17:15:16.024 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+17:15:34.823 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+17:15:37.313 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+17:15:38.787 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+17:15:38.790 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+17:15:41.048 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+17:15:41.155 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+17:15:53.320 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+17:15:56.658 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+17:33:51.384 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\grid-docker.xml
+
+17:33:58.721 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+17:33:59.167 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+17:33:59.920 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+17:33:59.925 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+17:34:03.754 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+17:34:04.147 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+17:34:08.069 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+17:34:10.309 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+17:34:51.437 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+17:34:51.827 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+17:34:52.457 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+17:34:52.458 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+17:34:54.283 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+17:34:54.378 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+21:46:40.616 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\grid-docker.xml
+
+21:46:48.179 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+21:46:48.453 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+21:46:49.332 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+21:46:49.337 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+21:46:51.778 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+21:46:51.908 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+21:46:55.185 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+21:46:57.603 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+21:47:12.551 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+21:47:12.977 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+21:47:13.774 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+21:47:13.775 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+21:47:17.371 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+21:47:17.450 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+21:47:28.835 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+21:47:31.186 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+21:59:49.092 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\grid-docker.xml
+
+22:02:32.225 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\grid-docker.xml
+
+22:12:53.865 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\grid-docker.xml
+
+22:13:09.975 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+22:13:10.353 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+22:13:11.115 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+22:13:11.119 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+22:13:13.549 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+22:13:13.698 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+22:13:16.302 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+22:13:18.763 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+22:13:45.090 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+22:13:45.553 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+22:13:46.258 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+22:13:46.259 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+22:13:48.302 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+22:13:48.469 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+22:14:02.118 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+22:14:04.021 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+22:20:03.387 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\grid-docker.xml
+
+22:20:13.310 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+22:20:13.704 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+22:20:14.663 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+22:20:14.671 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+22:20:17.332 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+22:20:17.812 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+22:20:24.691 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+22:20:27.396 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+22:20:39.403 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+22:20:39.837 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+22:20:40.686 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+22:20:40.687 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+22:20:43.209 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+22:20:43.334 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+22:21:05.796 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+22:21:09.410 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+22:21:24.418 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\grid-docker.xml
+
+22:21:30.053 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+22:21:30.711 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+22:21:32.069 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+22:21:32.090 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+22:21:35.115 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+22:21:35.226 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+22:21:37.562 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+22:21:39.959 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+22:21:56.056 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+22:21:56.520 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+22:21:57.896 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+22:21:57.898 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+22:22:00.392 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+22:22:00.452 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+22:22:17.859 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+22:22:20.492 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+22:24:32.778 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartVers121\grid-docker.xml
+
+22:24:38.564 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+22:24:38.976 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+22:24:40.196 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+22:24:40.201 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+22:24:42.890 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+22:24:43.001 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+22:24:45.153 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+22:24:47.086 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+06:20:03.647 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+06:20:04.088 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+06:20:05.073 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+06:20:05.078 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+06:20:07.222 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+06:20:07.282 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+06:20:10.854 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+06:20:12.935 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful
+06:21:56.031 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest.. ********
+06:21:56.453 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY account link.. ********
+06:21:57.159 [main] INFO  testCases.TC001_AccountRegistrationTest - ******We clicked on mY Register LInk... ********
+06:21:57.165 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Providing Customer Details...********
+06:21:59.181 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Validating Expected Message....********
+06:21:59.239 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finished..TC001_AccountRegistrationTest ********
+06:22:03.193 [main] INFO  testCases.TC002_LoginTest - *********verify_login Started
+06:22:05.435 [main] INFO  testCases.TC002_LoginTest - *******verify_login Successful

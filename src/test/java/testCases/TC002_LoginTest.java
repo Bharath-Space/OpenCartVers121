@@ -12,8 +12,8 @@ public class TC002_LoginTest extends BaseClass {
 @Test(groups={"Sanity","Master"})
 	public void verify_login() {
 
-		logger.info("*********verify_login Started");
-		try {
+			logger.info("*********verify_login Started");
+			try {
 			// In test cases we should not specify any hard code data anywher
 //		should keep in poc or excels
 

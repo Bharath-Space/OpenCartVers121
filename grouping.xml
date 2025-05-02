@@ -3,11 +3,13 @@
 <suite name="MasterSuite">
 	<groups>
 		<run>
-			<!-- <include name="Master" />-->
-			<!-- <include name="Regression" />
+			<!-- <include name="Master" />
+			 <include name="Regression" />
 	
-			<exclude name="Master" />-->
-			<include name="Sanity" />
+			<exclude name="Master" />
+			<include name="Sanity" />-->
+			<include name="Datadriven"/>
+			
 		</run>
 	</groups>
 	
@@ -25,9 +27,9 @@
 
 			<class name="testCases.TC001_AccountRegistrationTest"/> 
 			   <class name="testCases.TC002_LoginTest"/>
-			<!--<class name="testCases.TC0003_LoginDDT" />>-->
+			<class name="testCases.TC0003_LoginDDT" />
 		</classes>
-	</test> <!--
-	Test -->
-</suite> <!--
-Suite -->
+	</test> 
+
+</suite> 
+
